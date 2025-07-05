@@ -5,10 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Código-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E" />
-  <img src="https://img.shields.io/badge/Frontend-Svelte-red?style=flat&logo=svelte&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Estilos-Tailwind-blue?style=flat&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=black&color=F7DF1E" />
+<img src="https://img.shields.io/badge/-Svelte-informational?style=flat&logo=svelte&logoColor=black&color=red" />
+<img src="https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&logoColor=black" />
+<img src="https://img.shields.io/badge/-Tailwind-blue?style=flat&logo=tailwindcss&logoColor=black" />
+<img src="https://img.shields.io/badge/-MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=black"/>
 </p>
 
 <hr/>
