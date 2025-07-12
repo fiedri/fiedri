@@ -26,8 +26,9 @@
 <h2>🌐 Proyectos online</h2>
 
 <ul>
-  <li>🎰 <a href="https://sorteos-sagrados.onrender.com">Sorteos Sagrados</a> - Una ruleta para hacer sorteos divertidos</li>
-  <li>✂️ <a href="https://barberhero.netlify.app">BarberHero</a> - Página de presentación para barbería</li>
+  <li>💼 Mi <a href="https://friedrichruiz.netlify.app/" target="_blank">portfolio web</a> personal</li>
+  <li>🎰 <a href="https://sorteos-sagrados.onrender.com" target="_blank">Sorteos Sagrados</a> - Una ruleta para hacer sorteos divertidos</li>
+  <li>✂️ <a href="https://barberhero.netlify.app" target="_blank">BarberHero</a> - Página de presentación para barbería</li>
   <li>🧑‍💻 <em>Más pronto…</em></li>
 </ul>
 
