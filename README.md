@@ -27,7 +27,7 @@
 
 <ul>
   <li>💼 Mi <a href="https://friedrichruiz.netlify.app/" target="_blank">portfolio web</a> personal</li>
-  <li>🎰 <a href="https://sorteos-sagrados.onrender.com" target="_blank">Sorteos Sagrados</a> - Una ruleta para hacer sorteos divertidos</li>
+  <li>🎶 <a href="https://animebeats.netlify.app/" target="_blank">AnimeBeats</a></li>
   <li>✂️ <a href="https://barberhero.netlify.app" target="_blank">BarberHero</a> - Página de presentación para barbería</li>
   <li>🧑‍💻 <em>Más pronto…</em></li>
 </ul>
