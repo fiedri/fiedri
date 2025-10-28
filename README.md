@@ -36,5 +36,4 @@
 
 <p>
   <a href="https://twitter.com/@Friedrichruz"><img src="https://img.shields.io/badge/X-%40Friedrichruz-000?style=flat&logo=x&logoColor=white"/></a>
-  <a href="https://wa.me/+584121379204"><img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=flat&logo=whatsapp&logoColor=white"/></a>
 </p>
