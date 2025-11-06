@@ -17,10 +17,10 @@
 <h2>🚀 Sobre mí</h2>
 
 <ul>
-  <li>🛠️ Desarrollo aplicaciones web con <strong>Svelte + Tailwind + Node.js</strong></li>
-  <li>📦 Me encanta el código abierto y crear herramientas útiles</li>
+  <li>🛠️ Desarrollo aplicaciones web con <strong>Svelte + Tailwind + Node.js</strong>.</li>
+  <li>📦 Me encanta el código abierto y crear herramientas útiles.</li>
   <!--<li>🎯 Actualmente trabajando en una plataforma de retos de programación</li>-->
-  <li>📚 Aprendiendo todos los días, codificando todos los días, mejorando todos los días</li>
+  <li>📚 Aprendiendo todos los días, codificando todos los días, mejorando todos los días.</li>
 </ul>
 
 <h2>🌐 Proyectos online</h2>
