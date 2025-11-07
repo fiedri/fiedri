@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy Phiexdric</h1>
+<h1 align="center">¡Hola! 👋 Soy Fiedri</h1>
 
 <p align="center">
   <strong>Desarrollador autodidacta 🧠 | Developer creativo 👨‍💻 | Construyendo cosas geniales con código 🚀</strong>
